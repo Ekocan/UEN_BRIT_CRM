@@ -85,6 +85,9 @@ public class BRIT_1148 extends TestBase {
         Assert.assertTrue(pages.searchPage().pivotTable.isDisplayed());
     }
 
-
+    @Test
+    public void testGithub(){
+        System.out.println("testing the fork ");
+    }
 
 }
