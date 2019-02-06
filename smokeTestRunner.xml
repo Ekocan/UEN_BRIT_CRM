@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BriteErpDemo CRM" verbose="1">
+
+    <test name="Smoke Test">
+
+        <groups>
+
+
+        </groups>
+        <packages>
+            <package name=".*"></package>
+        </packages>
+    </test>
+
+</suite>
