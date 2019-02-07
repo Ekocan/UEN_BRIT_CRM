@@ -120,4 +120,68 @@ public class SearchPage extends TestBase {
     @FindBy(xpath = "//th[@rowspan='2']")
     public WebElement  pivotTable;
 
+
+
+    @FindBy(xpath = "//span[contains(text(),'Lead Tags')]")
+    public WebElement  LeadTag;
+
+
+
+    @FindBy(xpath = "//a[@title='Conversations']")
+    public WebElement  conversation;
+
+
+    @FindBy(xpath = "//button[contains(text(),'New message')]")
+    public WebElement  newMassageBtn;
+
+
+    @FindBy(xpath = "//div[@class='o_chat_header']")
+    public WebElement  newMassagePopUp;
+
+
+
+    @FindBy(xpath = "//a[@class='o_chat_window_close fa fa-close']")
+    public WebElement  windowCloseBtn;
+
+
+    @FindBy(xpath = "//*[@id=\"wrapwrap\"]/header/div[1]/ul/li[1]/div/div/div/div[1]")
+    public WebElement  webSiteApps;
+
+
+    @FindBy(xpath = "//body/div[@id='wrapwrap']/header[contains(@class,'o_no_autohide_menu')]/div[contains(@class,'o_main_header_main')]/ul[contains(@class,'o_primary_nav')]/li[1]")
+    public WebElement  AppsBtn;
+
+
+    @FindBy(xpath = "//div[@class='oe_website_login_container flex-grow-1 card mt-5 shadow']")
+    public WebElement  signInContaner;
+
+
+    @FindBy(xpath = "//a[contains(text(),'Sign in')]")
+    public WebElement  signInBtn;
+
+ //     /html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]
+
+
+    @FindBy(xpath = "//*[@id=\"top_menu\"]/li[5]/a")
+    public WebElement  APIBtn;
+
+    //body/div[@class='has_code_col']/main[@class='container has_code_col']/div[@class='o_content row']/article[contains(@class,'doc-body')]/section[3]/div[1]
+
+    @FindBy(xpath = "//*[@id=\"top_menu\"]/li[5]/a")
+    public WebElement  configrationArtical;
+
+
+    @FindBy(xpath = "//*[@id=\"wrapwrap\"]/header/div[1]/ul/li[5]/a")
+    public WebElement  DOCBtn;
+
+
+    @FindBy(xpath = "//a[@data-menu='account']")
+    public WebElement  myAccount;
+
+
+    @FindBy(xpath = "//div[@class='panel-body']")
+    public WebElement  panalBody;
+
 }
+
+
