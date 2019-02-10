@@ -35,6 +35,10 @@ public class BRIT_1590 extends TestBase {
         editable= pages.homePage().nameEditBox.isEnabled();
         Assert.assertTrue(editable);
 
+
+
+
+
     }
 
     @Test
