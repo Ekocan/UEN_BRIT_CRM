@@ -49,6 +49,7 @@ public class TestBase extends BrowserUtils implements ApplicationConstants{
         }
 
         Driver.closeDriver();
+        mysleep(2);
     }
 
     @BeforeTest
@@ -80,5 +81,6 @@ public class TestBase extends BrowserUtils implements ApplicationConstants{
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
     }
 }

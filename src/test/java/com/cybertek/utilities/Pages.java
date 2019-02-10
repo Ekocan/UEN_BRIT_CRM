@@ -8,7 +8,7 @@ public class Pages {
 
     private HomePage homePage;
     private LoginPage loginPage;
-    private SearchPage searchPage;
+    public SearchPage searchPage;
     private TopNavigationBar navigationBar;
     private LandingPage landingPage;
     //-------------------------------------------------------
