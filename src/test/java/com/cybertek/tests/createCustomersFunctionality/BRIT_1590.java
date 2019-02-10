@@ -29,7 +29,7 @@ public class BRIT_1590 extends TestBase {
         new BRIT_1590();
         pages.homePage().customersElement.click();
         wait.until(ExpectedConditions.titleContains("Custome"));
-        pages.homePage().createButton.click();
+        pages.homePage().createButtonCustomer.click();
         pages.homePage().nameEditBox.sendKeys("ADA");
         boolean editable;
         editable= pages.homePage().nameEditBox.isEnabled();
@@ -45,7 +45,7 @@ public class BRIT_1590 extends TestBase {
         new BRIT_1590();
         pages.homePage().customersElement.click();
         wait.until(ExpectedConditions.titleContains("Custome"));
-        pages.homePage().createButton.click();
+        pages.homePage().createButtonCustomer.click();
         wait.until(ExpectedConditions.titleContains("New"));
         Assert.assertTrue(pages.homePage().companyBoxForNewAccnt.isDisplayed());
     }
@@ -57,7 +57,7 @@ public class BRIT_1590 extends TestBase {
         new BRIT_1590();
         pages.homePage().customersElement.click();
         wait.until(ExpectedConditions.titleContains("Custome"));
-        pages.homePage().createButton.click();
+        pages.homePage().createButtonCustomer.click();
         wait.until(ExpectedConditions.titleContains("New"));
         pages.homePage().individualTextLink.click();
         wait(2);
@@ -77,7 +77,7 @@ public class BRIT_1590 extends TestBase {
         new BRIT_1590();
         pages.homePage().customersElement.click();
         wait.until(ExpectedConditions.titleContains("Custome"));
-        pages.homePage().createButton.click();
+        pages.homePage().createButtonCustomer.click();
         wait.until(ExpectedConditions.titleContains("New"));
         pages.homePage().companyRadioButtonText.click();
         wait(2);
@@ -91,7 +91,7 @@ public class BRIT_1590 extends TestBase {
         new BRIT_1590();
         pages.homePage().customersElement.click();
         wait.until(ExpectedConditions.titleContains("Custome"));
-        pages.homePage().createButton.click();
+        pages.homePage().createButtonCustomer.click();
         wait.until(ExpectedConditions.titleContains("New"));
         pages.homePage().companyRadioButtonText.click();
         wait(2);
@@ -105,7 +105,7 @@ public class BRIT_1590 extends TestBase {
         new BRIT_1590();
         pages.homePage().customersElement.click();
         wait.until(ExpectedConditions.titleContains("Custome"));
-        pages.homePage().createButton.click();
+        pages.homePage().createButtonCustomer.click();
         wait.until(ExpectedConditions.titleContains("New"));
         pages.homePage().companyRadioButtonText.click();
         wait(2);

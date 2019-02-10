@@ -1,19 +1,12 @@
 package com.cybertek.tests.activityFunctionality;
 
 import com.cybertek.pages.HomePage;
-import com.cybertek.pages.LoginPage;
-import com.cybertek.tests.filteringFunctionality.BRIT_1148;
-import com.cybertek.utilities.BrowserUtils;
 import com.cybertek.utilities.Driver;
 import com.cybertek.utilities.Pages;
 import com.cybertek.utilities.TestBase;
-import org.junit.Ignore;
-import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -78,10 +71,10 @@ public class BRIT_1654 extends TestBase {
         ActivityTypesClick();
 
         wait(2);
-        HomePage.createButton.click();
+        HomePage.createButtonCustomer.click();
 
 
-        HomePage.createButton.isDisplayed();
+        HomePage.createButtonCustomer.isDisplayed();
         wait(2);
         HomePage.createTypeNmae.click();
         HomePage.createTypeNmae.sendKeys("Test001");
@@ -213,10 +206,10 @@ public class BRIT_1654 extends TestBase {
        wait(2);
         ActivityTypesClick();
 
-        HomePage.createButton.click();
+        HomePage.createButtonCustomer.click();
 
 
-        HomePage.createButton.isDisplayed();
+        HomePage.createButtonCustomer.isDisplayed();
         HomePage.createTypeNmae.click();
         HomePage.createTypeNmae.sendKeys("deleteTest");
 

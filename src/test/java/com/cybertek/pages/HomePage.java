@@ -121,7 +121,7 @@ public class HomePage extends TestBase {
     WebElement nameAfetrSavedBox;
 
     static public @FindBy(xpath = "//button[@class='btn btn-primary btn-sm o-kanban-button-new btn-default']")
-    WebElement createButton;
+    WebElement createButtonCustomer;
 
     static public @FindBy(xpath = "/html/body/div[1]/div[2]/div[2]/div/div/div/div[1]/div/div[3]/div[2]")
     WebElement individualTextLink;
