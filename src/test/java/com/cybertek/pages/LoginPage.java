@@ -6,6 +6,11 @@ import com.cybertek.utilities.Pages;
 import com.cybertek.utilities.TestBase;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+
+import org.openqa.selenium.support.ui.ExpectedConditions;
+
+import static com.cybertek.utilities.BrowserUtils.waitForPageToLoad;
+
 import static org.openqa.selenium.support.PageFactory.*;
 
 public class LoginPage extends TestBase {
