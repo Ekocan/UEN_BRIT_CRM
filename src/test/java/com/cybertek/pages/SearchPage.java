@@ -37,6 +37,7 @@ public class SearchPage extends TestBase {
 
 
 
+
     //seachBox
     @FindBy(xpath = "//input[@class='o_searchview_input']")
     public WebElement searchBox;
@@ -119,5 +120,50 @@ public class SearchPage extends TestBase {
 
     @FindBy(xpath = "//th[@rowspan='2']")
     public WebElement  pivotTable;
+
+    //
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[3]/div[3]/button[1]")
+    public WebElement KanbanButton;
+
+    @FindBy(xpath = "//div[@class='btn-group btn-group-sm o_cp_switch_buttons']//button[5]")
+    public WebElement CalendarButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[2]/div[1]/div/div/button[1]")
+    public WebElement DayDisplay;
+
+    @FindBy(xpath = " /html/body/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[1]/a")
+    public WebElement UnreadMessageButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[3]/a")
+    public WebElement MyPipelineButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[4]/a")
+    public WebElement UnassignedButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[6]/a")
+    public WebElement ActivitiesToDoButton;
+
+    @FindBy(partialLinkText = "Los")
+    public WebElement LostButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[3]/div[3]/button[3]")
+    public WebElement GraphButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/button[1]")
+    public WebElement BarChartButton;
+
+    @FindBy(xpath = "/html/body/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/ul/li[12]/a")
+    public WebElement OverdueOpportunitiesButton;
+
+
+    @FindBy(xpath = "//div[@class='form-group field-login']/input")
+    public WebElement emailBox;
+
+    @FindBy(xpath = "//div[@class='form-group field-password']/input")
+    public WebElement passwordBox;
+
+    @FindBy(xpath = "//div[@class='clearfix oe_login_buttons']/button")
+    public WebElement login_button;
+
 
 }
