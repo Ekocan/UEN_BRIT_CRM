@@ -24,7 +24,7 @@ public class BRIT_1590 extends TestBase {
         pages.homePage().ClickCRM();
     }
 
-    @Test
+    @Test(groups = "ekrem")
     public void BRIT_1591(){
         new BRIT_1590();
         pages.homePage().customersElement.click();
