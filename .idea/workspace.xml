@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61052e6d-2b0b-4596-a514-b06d971aa893" name="Default Changelist" comment="" />
+    <list default="true" id="61052e6d-2b0b-4596-a514-b06d971aa893" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/UEN_BRIT_CRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/activityFunctionality/BRIT_1654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/activityFunctionality/BRIT_1654.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsActivityTypesClick20190206115949.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsActivityTypesClick20190207120359.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsActivityTypesClick20190207120513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsActivityTypesClick20190207121532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsActivityTypesClick20190207121621.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsActivityTypesClick20190209071956.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190208115910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209031139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209032419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209072357.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209072719.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209100910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209101121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209101928.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209120010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209121055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209121205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209121504.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209121548.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209121641.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209121743.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209122108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsDeleteAction20190209122204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208013532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208014013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208014404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208014639.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208042322.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208044908.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208123101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208123454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208123658.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208124301.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208124612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190208125208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190209120652.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsaddRecommendedNextAc20190209121843.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotseditDays20190208110509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotseditDays20190208110604.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotseditDays20190208111040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotseditDays20190208111627.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotseditDays20190208111946.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotseditDays20190209070124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsmoodifyTheActivity20190209071307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190207114515.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190207115436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190207115522.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190207115843.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190208120009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190208120618.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190208120749.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190208120929.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190208121057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsrecommendedNextActivities20190208121323.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/HomePage.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +77,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="37">
+=======
+            <state relative-caret-position="1192">
+>>>>>>> master
               <caret line="92" column="60" lean-forward="true" selection-start-line="92" selection-start-column="60" selection-end-line="92" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -284,7 +350,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549759389068" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549759374683" />
+>>>>>>> master
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -631,7 +701,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="37">
+=======
+        <state relative-caret-position="1192">
+>>>>>>> master
           <caret line="92" column="60" lean-forward="true" selection-start-line="92" selection-start-column="60" selection-end-line="92" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
