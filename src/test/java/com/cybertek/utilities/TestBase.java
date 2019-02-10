@@ -32,7 +32,7 @@ public class TestBase extends BrowserUtils implements ApplicationConstants{
         pages = new Pages();
         wait=new WebDriverWait(driver, 1000);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-//        driver.get(ConfigurationReader.getProperties("url"));
+//      driver.get(ConfigurationReader.getProperties("url"));
     }
 
     @AfterMethod
