@@ -36,9 +36,6 @@ public class BRIT_1590 extends TestBase {
         Assert.assertTrue(editable);
 
 
-
-
-
     }
 
     @Test
